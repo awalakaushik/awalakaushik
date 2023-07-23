@@ -18,7 +18,7 @@ I'm always looking to improve my skills and learn new things. Some of the things
 - TypeScript for building scalable and maintainable apps.
 - Machine learning with ML.NET and Quantum Computing Fundamentals using Q#.
 
-## 👯‍♀️ Looking to collaborate?
+## 👬 Looking to collaborate?
 If you'd like to connect, feel free to reach out to me on LinkedIn. I'm always looking to meet new people in the tech community and open to collaborating on new projects or contributing to existing ones. If you have an interesting project in mind or just want to chat about tech, feel free to reach out to me!
 
 ## 💬 Get in touch
