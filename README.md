@@ -25,12 +25,3 @@ If you'd like to connect, feel free to reach out to me on LinkedIn. I'm always l
 [LinkedIn](https://www.linkedin.com/in/akaushikr/)
 
 Thanks for stopping by, and happy coding!
-
-## 🚀 React Single Page Application
-This portfolio has been transformed into a single page application using React. Each section of the portfolio is a React component, and the entire application is rendered using a main `App` component.
-
-## 🧪 Unit and Integration Tests
-Unit and integration tests have been added to ensure that everything is working as expected. The tests are written using Jest and React Testing Library.
-
-## 🌐 Live Site
-You can view the live site on GitHub Pages: [My Portfolio](https://awalakaushik.github.io/awalakaushik/)
