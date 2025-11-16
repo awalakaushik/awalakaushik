@@ -8,19 +8,18 @@ import { CollaborateComponent } from './components/collaborate/collaborate.compo
 import { ContactComponent } from './components/contact/contact.component';
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
-  imports: [
-    HeaderComponent,
-    AboutComponent,
-    HobbiesComponent,
-    FunFactComponent,
-    LearningComponent,
-    CollaborateComponent,
-    ContactComponent
-  ],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+    selector: 'app-root',
+    imports: [
+        HeaderComponent,
+        AboutComponent,
+        HobbiesComponent,
+        FunFactComponent,
+        LearningComponent,
+        CollaborateComponent,
+        ContactComponent
+    ],
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.css'
 })
 export class AppComponent {
   title = 'awalakaushik-portfolio';
